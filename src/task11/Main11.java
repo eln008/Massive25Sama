@@ -1,0 +1,2 @@
+package task11;public class Main11 {
+}
