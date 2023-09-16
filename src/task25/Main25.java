@@ -13,7 +13,7 @@ public class Main25 {
 
         newArray[newArray.length - 1] = newValue;
 
-        System.out.println("Исходный массив: " + Arrays.toString(originalArray));
+        System.out.println( Arrays.toString(originalArray));
         System.out.println("Массив после добавления элемента: " + Arrays.toString(newArray));
 
     }
